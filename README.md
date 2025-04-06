@@ -1,16 +1,50 @@
-# cred_mock
+# IMPLEMENTING CRED MCK
 
-A new Flutter project.
+## A CRED MCK Flutter Implementation.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## SUPPORT
+- **Cross-Platform Support:** Full functionality across Android, iOS and Web using Clean Architecture.
 
-A few resources to get you started if this is your first Flutter project:
+#### Extra:
+- Full Setup and Launch Icons
+- Network Notification
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### APK, SCREENSHOTS AND VIDEO RECORDING:
+- [Use this link to access these resources on Google Drive](https://drive.google.com/drive/folders/11JE8kn-HhYiu81FbQ52596utXk1VXdqz?usp=sharing)
+
+
+#### RUN LOCALLY:
+This guide will help you clone and run this Flutter project locally.
+
+### Prerequisites
+
+Make sure you have the following installed:
+
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- [Git](https://git-scm.com/)
+
+Additionally, for mobile platforms (iOS/Android), ensure you have:
+
+- **Android Studio** with the necessary Android SDKs
+- **Xcode** for iOS development (macOS only)
+- **A connected device or emulator**
+
+### Clone the Project
+
+To clone the project to your local machine:
+
+```bash
+# To Run
+git clone https://github.com/Atuoha/cred_mck
+
+flutter doctor
+
+cd flutter_project
+
+flutter pub get
+
+flutter run
+
+

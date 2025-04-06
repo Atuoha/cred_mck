@@ -1,10 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="cred_mock"
+        android:label="Cred MCK"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
-            android:name="Cred MCK"
+            android:name=".MainActivity"
             android:exported="true"
             android:launchMode="singleTop"
             android:taskAffinity=""
