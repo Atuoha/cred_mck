@@ -1,5 +1,3 @@
-# IMPLEMENTING CRED MCK
-
 ## A CRED MCK Flutter Implementation.
 
 
