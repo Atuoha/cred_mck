@@ -1,7 +1,4 @@
 ## A CRED MCK Flutter Implementation.
-
-
-## SUPPORT
 - **Cross-Platform Support:** Full functionality across Android, iOS and Web using Clean Architecture.
 
 #### Extra:
